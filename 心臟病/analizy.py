@@ -9,7 +9,6 @@ from sklearn.metrics import roc_curve, auc
 import pydotplus
 import shap
 import matplotlib
-# # 調整圖片大小
 # plt.figure(figsize=(16,4),dpi=50)
 
 def visualization_roc(tpr, fpr):
